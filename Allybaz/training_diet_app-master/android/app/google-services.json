@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1015777269581",
+    "project_id": "sport-auth-1609b",
+    "storage_bucket": "sport-auth-1609b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015777269581:android:9bf1d1cf01d81cbfae0904",
+        "android_client_info": {
+          "package_name": "com.example.training_and_diet_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015777269581-8smidhm77jk9ptg226iut2o6dgfbdchl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.training_and_diet_app",
+            "certificate_hash": "8509261131be6edd3762337ac83e9b3dc9a8146c"
+          }
+        },
+        {
+          "client_id": "1015777269581-eba006dg5m23dp0ktb6bsmngj5v3urj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAl5_KQwoA22dXStUGa_ZJ4UFjkCXKBmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015777269581-eba006dg5m23dp0ktb6bsmngj5v3urj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
